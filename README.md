@@ -35,32 +35,6 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 	- components
 	- service
 
-# 4 - And arrange the first task of team members : The model
+# 4- The Schema that we work on:
 
-It arranged :
-Hassan : 
-	- User table
-
-Mark:
-	- board table
-	- pin table
-	- board_pin table
-
-Noha:
-	- comment table
-	- comment_reply
-	- comment_likes
-
-Nessrin:
-	- Category
-	- User_category
-	- relationships
-
-Khalil:
-	- invitation
-	- User_board
-
-Reem:
-	- Message
-	- Favorites
-
+<img src='/Media/schema.png' /> 
