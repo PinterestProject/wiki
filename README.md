@@ -38,4 +38,4 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 # 4- The Schema that we work on:
 
 <img src='/Media/schema.png' /> 
-<a href='https://drawsql.app/iti-15/diagrams/pinterest#' />
+https://drawsql.app/iti-15/diagrams/pinterest#
