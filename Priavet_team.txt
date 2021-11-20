@@ -9,3 +9,34 @@
 9- git add . 
 10- git commit -m 'your commit'
 11- git push origin head
+
+
+
+# 4 - And arrange the first task of team members : The model
+
+It arranged :
+Hassan : 
+	- User table
+
+Mark:
+	- board table
+	- pin table
+	- board_pin table
+
+Noha:
+	- comment table
+	- comment_reply
+	- comment_likes
+
+Nessrin:
+	- Category
+	- User_category
+	- relationships
+
+Khalil:
+	- invitation
+	- User_board
+
+Reem:
+	- Message
+	- Favorites
