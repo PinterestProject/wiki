@@ -1,0 +1,11 @@
+1- mkdir Final_project
+2- git clone https://github.com/PinterestProject/pinterest.git
+3- python3 -m venv pinterst_env
+4- source pinterst_env/bin/activate
+5- pip install -r pinterest/backend/requirments.txt
+6- git branch -c khalilBranch
+7- git checkout khalilBranch
+8- make some change ==> write your model
+9- git add . 
+10- git commit -m 'your commit'
+11- git push origin head
