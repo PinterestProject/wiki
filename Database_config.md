@@ -15,6 +15,11 @@ USER='markgm'
 PASSWORD='$uperHarDP@$sw0rD'
 HOST='localhost'
 PORT='5432'
+
+BASE_DIR='/home/sedosona/Documents/'
+FRONT_NAME='Frontend'
+STATIC='/build/static'
+BUILD='/build'
 ```
 
 ### 3. Load secrets in your django app
