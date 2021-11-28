@@ -54,12 +54,48 @@ GET /pins/api/v1/pins/<int:pin_id>/
 PATCH /pins/api/v1/pins/<int:pin_id>/
 ````
 
-4. User can update a pin they made.
+5. User can update a pin they made.
 ````HTTP
 PUT /pins/api/v1/pins/<int:pin_id>/
 ````
 
-5. User can delete a pin they made.
+6. User can delete a pin they made.
 ````HTTP
 DELETE /pins/api/v1/pins/<int:pin_id>/
+````
+
+
+----------
+
+
+### Board(s) API
+
+1. User can create a board
+```HTTP
+POST /boards/api/v1/boards/
+```
+
+2. User can view their own boards
+```HTTP
+GET /boards/api/v1/boards/
+```
+
+3. User can view a specific board
+````HTTP
+GET /boards/api/v1/boards/<int:board_id>/
+````
+
+4. User can partially update a board they made.
+````HTTP
+PATCH /boards/api/v1/boards/<int:board_id>/
+````
+
+5. User can update a board they made.
+````HTTP
+PUT /boards/api/v1/boards/<int:board_id>/
+````
+
+6. User can delete a board they made.
+````HTTP
+DELETE /boards/api/v1/boards/<int:board_id>/
 ````
