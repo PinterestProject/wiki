@@ -15,6 +15,20 @@ POST /users/login/
 ```HTTP
 POST /users/logout/
 ````
+4. Get all users
+````HTTP
+GET /users/users/
+````
+
+5. Get a user
+````HTTP
+GET /users/users/<int:user_id>/
+````
+
+6. Partially update a user data
+````HTTP
+PATCH /users/users/<int:user_id>/
+````
 
 ----------
 
