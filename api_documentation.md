@@ -64,7 +64,7 @@ DELETE /users/relation/delete
 GET /users/relation/followed/<int:pk>
 ```
 
-11. List people whom the user follows
+11. List people who follow the user
 
 ```HTTP
 GET /users/relation/follower/<int:pk>
