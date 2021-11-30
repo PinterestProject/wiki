@@ -163,29 +163,29 @@ DELETE /boards/api/v1/boards/<int:board_id>/
 1. Get all comments on a pin
 
 ```HTTP
-GET /comment/
+GET /comments/comment/
 ```
 
 2. Post a comment on a pin
 
 ```HTTP
-POST /comment/
+POST /comments/comment/
 ```
 
 3. Get a comment
 
 ```HTTP
-GET /comment/<int:pk>
+GET /comments/comment/<int:pk>
 ```
 
 4. Edit a comment
 
 ```HTTP
-PATCH /comment/<int:pk>
+PATCH /comments/comment/<int:pk>
 ```
 
 5. Delete a comment
 
 ```HTTP
-DELETE /comment/<int:pk>
+DELETE /comments/comment/<int:pk>
 ```
