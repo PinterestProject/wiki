@@ -31,15 +31,15 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 - We agrred that:
 # 1- we'll use the class based On Django restframework.
 # 2- Structre of Back-end apps :
-	- User app
-	- pin app
-	- board app
+	- Users app
+	- Pins app
+	- Boards app
 	- message app
 	- comments app
 	- caegory app
 	- Front-End app
 
-# 3- The sequence of Fron-end application be like:
+# 3- The sequence of Front-end application be like:
 	- Routes
 	- authontaction 
 	- components

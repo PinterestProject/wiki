@@ -14,10 +14,17 @@
  pip install -r pinterest/backend/requirements.txt
  ````
 
-#### Install Python dependencies
+#### Initialize Database
  
  ````bash
  python3 manage.py makemigrations
  python3 manage.py migrate
+ # create an admin user
  python3 manage.py createsuperuser
  ````
+
+#### Run the Django API server
+
+````bash
+python3 manage.py runserver
+````
