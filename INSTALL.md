@@ -17,6 +17,7 @@
 #### Initialize Database
  
  ````bash
+ cd pinterest/backend
  python3 manage.py makemigrations
  python3 manage.py migrate
  # create an admin user
@@ -27,4 +28,22 @@
 
 ````bash
 python3 manage.py runserver
+````
+
+#### Clone project (Frontend)
+
+````bash
+ git clone -b dev https://github.com/PinterestProject/Frontend
+ ````
+
+ #### Install JavaScript dependencies
+ ````bash
+ cd Frontend
+ npm install
+ ````
+
+ #### Run the ReactJS app
+
+````bash
+npm start
 ````
