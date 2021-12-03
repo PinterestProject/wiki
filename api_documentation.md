@@ -70,6 +70,12 @@ GET /users/relation/followed/<int:pk>
 GET /users/relation/follower/<int:pk>
 ```
 
+12. A logged-in user can view their own account data
+
+```HTTP
+GET /users/user-details/
+```
+
 ---
 
 ### Pin(s) API
