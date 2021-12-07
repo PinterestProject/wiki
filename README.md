@@ -76,6 +76,10 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 # 6- Main Developing tools:
 	- Django Restframwork API
 	- ReactJs
+<p align="center">
+	<img src='https://daniel.feldroy.com/images/drf.png' /> 
+	<img src='http://www.danielledeveloper.com/wp-content/uploads/2018/04/Reactjs-logo-e1523253944211.png' /> 
+</p>
 
 # 7- API Testing:
 	- Postman
@@ -90,14 +94,21 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 <p align="center">
 	<img src='https://logowik.com/content/uploads/images/heroku8748.jpg' /> 
 </p>
-<p align="center">
 	
 	
 # 9- For Image Storage:
 	- Backblaze
+<p align="center">
+	<img src='https://www.onlinebackupcodes.com/wp-content/uploads/2011/10/logo_horiz_white-940x198.jpg' /> 
+</p>
+	
 
 # 10- Version Control:
 	- GitHub
+<p align="center">
+	<img src='https://newsignature.com/wp-content/uploads/2020/08/github-logo-crop-300x219.png' /> 
+</p>
+
 
 # 11- Developing tools/ Libraries React js:
 	- Material UI
@@ -117,7 +128,11 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 	
 # 13 - Database:
 	- Postgres
-	
+<p align="center">
+	<img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_original_wordmark_logo_icon_146392.png' /> 
+</p>
+
+
 ## Screenshots:
 	- Landing Page
 <p align="center">
