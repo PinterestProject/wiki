@@ -193,3 +193,37 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 <p align="center">
 	<img src='https://i.ibb.co/BKpCsJH/17-Not-Found-Page.png' /> 
 </p>
+
+
+## Screenshots For Deployment:
+
+	- Deployment
+<p align="center">
+	<img src='https://i.ibb.co/n1SN2Lc/3.jpg' /> 
+</p>
+
+<p align="center">
+	<img src='https://i.ibb.co/nRtPtj2/1.jpg' /> 
+</p>
+
+<p align="center">
+	<img src='https://i.ibb.co/4jvHbcJ/2.jpg' /> 
+</p>
+
+	- Database Deployment
+<p align="center">
+	<img src='https://i.ibb.co/1qRDZF7/4.jpg' /> 
+</p>
+
+	- Backblaze Image server
+<p align="center">
+	<img src='https://i.ibb.co/02bMMRW/Img1.jpg' /> 
+</p>
+
+<p align="center">
+	<img src='https://i.ibb.co/ySP4WFg/Img2.jpg' /> 
+</p>
+
+<p align="center">
+	<img src='https://i.ibb.co/bBH4Qgt/Img3.jpg' /> 
+</p>
