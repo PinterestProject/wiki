@@ -92,37 +92,49 @@ POST /pins/api/v1/pins/
 GET /pins/api/v1/user/pins/
 ```
 
-3. User can view all pins
+3. User can view pins that are in boards they created
+
+```HTTP
+GET /pins/api/v1/user/boards/pins/
+```
+
+4. User can view all pins
 
 ```HTTP
 GET /pins/api/v1/pins/
 ```
 
-4. Get pins of a board
+5. Get pins of a board
 
 ```HTTP
 GET /pins/api/v1/boards/<int:board_id>/pins/
 ```
 
-5. User can view a specific pin
+6. User can view a specific pin
 
 ```HTTP
 GET /pins/api/v1/pins/<int:pin_id>/
 ```
 
-6. User can partially update a pin they made.
+7. User can partially update a pin they made.
 
 ```HTTP
 PATCH /pins/api/v1/pins/<int:pin_id>/
 ```
 
-7. User can update a pin they made.
+8. pins Of Specific Category
+
+```HTTP
+POST /pins/api/v1/categories/pins/
+```
+
+9. User can update a pin they made.
 
 ```HTTP
 PUT /pins/api/v1/pins/<int:pin_id>/
 ```
 
-8. User can delete a pin they made.
+10. Pin authors only are the ones able to delete a pin they made.
 
 ```HTTP
 DELETE /pins/api/v1/pins/<int:pin_id>/
