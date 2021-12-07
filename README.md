@@ -113,66 +113,82 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 <p align="center">
 	<img src='https://i.ibb.co/1sVdGW7/1-Landing.png' /> 
 </p>
+
 	- About PAge
 <p align="center">
 	<img src='https://i.ibb.co/CsBKmnr/2-About.png' /> 
 </p>
+
 	- Sign Up
 <p align="center">
 	<img src='https://i.ibb.co/YQsFf1C/3-SignUp.png' /> 
 </p>
+
 	- Welcome Message
 <p align="center">
 	<img src='https://i.ibb.co/nkcKnRd/4-Welcome.png' /> 
 </p>
+
 	- Choose Category
 <p align="center">
 	<img src='https://i.ibb.co/yWQYbDb/5-Chose-Category.png' /> 
 </p>
+
 	- LogIn
 <p align="center">
 	<img src='https://i.ibb.co/DzRX8c5/6-Login.png' /> 
 </p>
+
 	- Home Page
 <p align="center">
 	<img src='https://i.ibb.co/rwmPrVH/7-Home.png' /> 
 </p>
+
 	- Pin Details
 <p align="center">
 	<img src='https://i.ibb.co/0VvSNgZ/8-Pin-Details.png' /> 
 </p>
+
 	- Profile Page
 <p align="center">
 	<img src='https://i.ibb.co/WBHBnhK/9-Profile.png' /> 
 </p>
+
 	- Create Board
 <p align="center">
 	<img src='https://i.ibb.co/DfhVQKJ/10-Create-Board.png' /> 
 </p>
+
 	- Create Pin
 <p align="center">
 	<img src='https://i.ibb.co/d4LQkR3/11-Create-Pin.png' /> 
 </p>
+
 	- Board Details
 <p align="center">
 	<img src='https://i.ibb.co/CHmWrtG/12-Board-Details.png' /> 
 </p>
+
 	- Edit Profile
 <p align="center">
 	<img src='https://i.ibb.co/Wk90DMV/13-Edit-Profile.png' /> 
 </p>
+
 	- All users
 <p align="center">
 	<img src='https://i.ibb.co/Qk3YFJ2/14-All-Users.png' /> 
 </p>
+
 	- User Details
 <p align="center">
 	<img src='https://i.ibb.co/z4p6hWx/15-User-Details.png' /> 
 </p>
+
 	- Change Password
 <p align="center">
 	<img src='https://i.ibb.co/R0c45KY/16-Change-Password.png' />
 </p>
+
 	- Not Found Page 
 <p align="center">
 	<img src='https://i.ibb.co/BKpCsJH/17-Not-Found-Page.png' /> 
