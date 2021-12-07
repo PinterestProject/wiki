@@ -10,6 +10,10 @@
 - [Reem Samir Abdelghany Megahed Mahdaly](https://github.com/reemsamir1999)
 # wiki
 
+# Objectives:
+
+	- The Project main goal is to develop a Clone of Pinterest site
+
 As with most other social networks, on Pinterest people can perform standard social networking functions. 
 
 Such as following their friends, liking and commenting on other users’ boards, re-pinning content to their own boards,
@@ -31,21 +35,161 @@ In first meeting we discuse about the oriantaion of project and the strcuture of
 - We agrred that:
 # 1- we'll use the class based On Django restframework.
 # 2- Structre of Back-end apps :
-	- Users app
-	- Pins app
-	- Boards app
-	- message app
-	- comments app
-	- caegory app
-	- Front-End app
+	- Backend: 
+		- Users app
+		- Pins app
+		- Boards app
+		- message app
+		- comments app
+		- caegory app
+	- Front-End 
 
 # 3- The sequence of Front-end application be like:
-	- Routes
-	- authontaction 
-	- components
-	- service
+	- Front-End :
+		- Routes
+		- authontaction 
+		- components
+		- service
 
 # 4- The Schema that we work on:
-
-<img src='/Media/schema.png' /> 
+<p align="center">
+	<img src='https://i.ibb.co/1M6mPrp/schema.png' /> 
+</p>
+<p align="center">
 https://drawsql.app/iti-15/diagrams/pinterest#
+</p>
+
+
+# 5- Functional Requirements:
+	- Sign up
+	- Log in
+	- Choose categories
+	- View Pins
+	- Create Pin
+	- Delete Pin
+	- Create Board
+	- View Profile
+	- View All Users
+	- Change Password 
+	- Logout
+
+# 6- Main Developing tools:
+	- Django Restframwork API
+	- ReactJs
+
+# 7- API Testing:
+	- Postman
+
+# 8- Deployment:
+	- Heroku
+
+# 9- For Image Storage:
+	- Backblaze
+
+# 10- Version Control:
+	- GitHub
+
+# 11- Developing tools/ Libraries React js:
+	- Material UI
+	- Axios
+	- Bootsrap
+	- React-Bootstrap
+	- React-dom
+	- React-masonry-css
+	- React-Router-dom
+	
+# 12- Developing tools/ Libraries Django:
+	- Django rest framework
+	- Pillow
+	- Psycopg2
+	- Dotenv
+	- Corsheaders
+	
+# 13 - Database:
+	- Postgres
+	
+## Screenshots:
+	- Landing Page
+<p align="center">
+	<img src='https://i.ibb.co/1sVdGW7/1-Landing.png' /> 
+</p>
+
+	- About PAge
+<p align="center">
+	<img src='https://i.ibb.co/CsBKmnr/2-About.png' /> 
+</p>
+
+	- Sign Up
+<p align="center">
+	<img src='https://i.ibb.co/YQsFf1C/3-SignUp.png' /> 
+</p>
+
+	- Welcome Message
+<p align="center">
+	<img src='https://i.ibb.co/nkcKnRd/4-Welcome.png' /> 
+</p>
+
+	- Choose Category
+<p align="center">
+	<img src='https://i.ibb.co/yWQYbDb/5-Chose-Category.png' /> 
+</p>
+
+	- LogIn
+<p align="center">
+	<img src='https://i.ibb.co/DzRX8c5/6-Login.png' /> 
+</p>
+
+	- Home Page
+<p align="center">
+	<img src='https://i.ibb.co/rwmPrVH/7-Home.png' /> 
+</p>
+
+	- Pin Details
+<p align="center">
+	<img src='https://i.ibb.co/0VvSNgZ/8-Pin-Details.png' /> 
+</p>
+
+	- Profile Page
+<p align="center">
+	<img src='https://i.ibb.co/WBHBnhK/9-Profile.png' /> 
+</p>
+
+	- Create Board
+<p align="center">
+	<img src='https://i.ibb.co/DfhVQKJ/10-Create-Board.png' /> 
+</p>
+
+	- Create Pin
+<p align="center">
+	<img src='https://i.ibb.co/d4LQkR3/11-Create-Pin.png' /> 
+</p>
+
+	- Board Details
+<p align="center">
+	<img src='https://i.ibb.co/CHmWrtG/12-Board-Details.png' /> 
+</p>
+
+	- Edit Profile
+<p align="center">
+	<img src='https://i.ibb.co/Wk90DMV/13-Edit-Profile.png' /> 
+</p>
+
+	- All users
+<p align="center">
+	<img src='https://i.ibb.co/Qk3YFJ2/14-All-Users.png' /> 
+</p>
+
+	- User Details
+<p align="center">
+	<img src='https://i.ibb.co/z4p6hWx/15-User-Details.png' /> 
+</p>
+
+	- Change Password
+<p align="center">
+	<img src='https://i.ibb.co/R0c45KY/16-Change-Password.png' />
+</p>
+
+	- Not Found Page 
+<p align="center">
+	<img src='https://i.ibb.co/BKpCsJH/17-Not-Found-Page.png' /> 
+</p>
