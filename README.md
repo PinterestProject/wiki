@@ -79,10 +79,20 @@ https://drawsql.app/iti-15/diagrams/pinterest#
 
 # 7- API Testing:
 	- Postman
-
+<p align="center">
+	<img src='https://getlogovector.com/wp-content/uploads/2020/07/postman-inc-logo-vector.png' /> 
+</p>
+<p align="center">
+	
+	
 # 8- Deployment:
 	- Heroku
-
+<p align="center">
+	<img src='https://logowik.com/content/uploads/images/heroku8748.jpg' /> 
+</p>
+<p align="center">
+	
+	
 # 9- For Image Storage:
 	- Backblaze
 
