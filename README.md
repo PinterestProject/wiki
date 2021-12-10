@@ -29,6 +29,11 @@ Pinning pictures of employees could also help customers identify with the people
 and providing more information potential clients or customers love to know.
 
 
+# Live Deployment:
+[Pinterest Clone](https://pinterest-iti.herokuapp.com/)
+
+
+
 # This is Documentation for the pinterest clone project for iti.
 
 In first meeting we discuse about the oriantaion of project and the strcuture of it and it parts
